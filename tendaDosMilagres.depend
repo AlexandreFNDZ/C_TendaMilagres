@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1569026011 source:c:\users\aluno\desktop\tendadosmilagres\fila.c
+	<stdlib.h>
+	"fila.h"
+
+1569026015 c:\users\aluno\desktop\tendadosmilagres\fila.h
+
+1569171178 source:f:\_cotil 2019\estrutura de dados 2019\tendadosmilagres\fila.c
+	<stdlib.h>
+	<stdio.h>
+	"fila.h"
+
+1569171182 f:\_cotil 2019\estrutura de dados 2019\tendadosmilagres\fila.h
+
+1569171318 source:f:\_cotil 2019\estrutura de dados 2019\tendadosmilagres\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
